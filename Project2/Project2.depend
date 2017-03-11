@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489254011 source:f:\uta\2017 spring\cse3320\project2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+
